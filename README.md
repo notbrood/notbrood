@@ -2,15 +2,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
  </p>
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
-<hr>
 
 
 
 
-  ![Pratham Bhatnagar's github activity graph](https://activity-graph.herokuapp.com/graph?username=notbrood&theme=react-dark)
+  ![Aman Jain's github activity graph](https://activity-graph.herokuapp.com/graph?username=notbrood&theme=react-dark)
 
 
 
