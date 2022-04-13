@@ -36,7 +36,7 @@
   <a href="https://discord.com/users/Broood#2795" target="blank"
     ><img
       align="center"
-      src="https://img.icons8.com/ios-glyphs/344/discord-logo.png"
+      src="https://img.icons8.com/color/344/discord-logo.png"
       alt="Aman Jain"
       height="40"
       width="40"></a>
