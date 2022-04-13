@@ -13,33 +13,31 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:ajain9926@gmail.com?'Reching out to you'='Hi, I want to enwuire about...'" rel="noopener" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/732/732200.png" alt="2000_i_k" height="40" width="40" /></fa>
 
 </a>
-  <a href="https://twitter.com/Brooddds" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="prrthamm"
-      height="30"
-      width="40"
-  /></a>
   <a href="https://www.linkedin.com/in/ajain9926/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="pratham-bhatnagar"
+      alt="Aman Jain"
       height="30"
       width="40"
   /></a>
   <a href="https://instagram.com/notbrood" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="shreyaansjain06"
+      src="https://www.freepnglogos.com/pics/spotify-logo-png"
+      alt="Aman Jain"
       height="30"
       width="40"
   /></a>
+  <a href="https://instagram.com/notbrood" target="blank"
+    ><img
+      align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
+      alt="Aman Jain"
+      height="30"
+      width="40"></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
@@ -63,24 +61,9 @@
     />
   </a>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img height="50" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg">
-  <a href="https://git-scm.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
 </p>
 
@@ -89,8 +72,8 @@
 
 |💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
 |-----------------------------------|----------------------------------|
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notbrood&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/pratham-bhatnagar)|[![Sushant's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=pratham-bhatnagar&theme=midnight-purple&hide_border=true)](https://github.com/pratham-bhatnagar)
-|[![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=notbrood&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/pratham-bhatnagar)|
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notbrood&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/notbrood)|[![Sushant's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=pratham-bhatnagar&theme=midnight-purple&hide_border=true)](https://github.com/notbrood)
+|[![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=notbrood&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/notbrood)|
 </p>
 <h1 >Visits: </h1> 
 
