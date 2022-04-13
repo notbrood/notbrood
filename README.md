@@ -23,7 +23,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://instagram.com/notbrood" target="blank"
+  <a href="https://open.spotify.com/user/44tdtgt4n9xrtkgsrqr05yj5d" target="blank"
     ><img
       align="center"
       src="https://www.freepnglogos.com/pics/spotify-logo-png"
