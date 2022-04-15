@@ -65,7 +65,8 @@
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img height="40" src="https://raw.githubusercontent.com/vorillaz/devicons/ba75593fdf8d66496676a90cbf127d721f73e961/!SVG/android.svg">
+  <img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/a4d5d407534297a24d283718e371f49adb16146d/images/svg/kotlin.svg">
+  <img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/a4d5d407534297a24d283718e371f49adb16146d/images/svg/android.svg">
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
 </p>
 
