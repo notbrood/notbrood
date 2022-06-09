@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Aman Jain !</h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="15px">
+<h1 align="center">Hi I'm Aman Jain !</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
  </p>
