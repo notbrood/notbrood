@@ -1,83 +1,24 @@
-<h1 align="center">Hi I'm Aman Jain !</h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
- </p>
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amvnjain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajain9926) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AmvnJain) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/Amvnnn) 
 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=notbrood&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=notbrood&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=notbrood&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=notbrood&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-  ![Aman Jain's github activity graph](https://activity-graph.herokuapp.com/graph?username=notbrood&theme=react-dark)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</a>
-  <a href="https://www.linkedin.com/in/ajain9926/" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Aman Jain"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://open.spotify.com/user/44tdtgt4n9xrtkgsrqr05yj5d" target="blank"
-    ><img
-      align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg"
-      alt="Aman Jain"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://instagram.com/notbrood" target="blank"
-    ><img
-      align="center"
-      src="https://cdn-icons-png.flaticon.com/512/174/174855.png"
-      alt="Aman Jain"
-      height="40"
-      width="40"></a>
-  <a href="https://discord.com/users/Broood#2795" target="blank"
-    ><img
-      align="center"
-      src="https://img.icons8.com/color/344/discord-logo.png"
-      alt="Aman Jain"
-      height="40"
-      width="40"></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
- <p align="left">
-     </a>
-  </a>
-    <a href="https://www.mysql.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-      <a href="https://www.python.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/a4d5d407534297a24d283718e371f49adb16146d/images/svg/kotlin.svg">
-  <img height="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/a4d5d407534297a24d283718e371f49adb16146d/images/svg/android.svg">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
-</p>
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
+---
+[![](https://visitcount.itsvg.in/api?id=notbrood&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<h2 align="center">Github Statistics </h2>
-
-|💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
-|-----------------------------------|----------------------------------|
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notbrood&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/notbrood)|[![Aman's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=notbrood&theme=midnight-purple&hide_border=true)](https://github.com/notbrood)
-|[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=notbrood&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/notbrood)|
-</p>
-<h1 >Visits: </h1> 
-
-![Visitor Count](https://profile-counter.glitch.me/notbrood/count.svg)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
