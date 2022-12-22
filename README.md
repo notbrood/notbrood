@@ -1,4 +1,16 @@
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+```dart
+const person = {
+  name: "Aman",
+  bio: "A second-year computer science student with a passion for app development, 
+        I am particularly interested in using AI, competitive programming, 
+        and app development to solve real-world problems and stay up-to-date 
+        with emerging technologies."
+  inGameName: ["Amvn", "Brood"],
+  hobbies: ["Star-gazing", "Observing People", "Cinephile", "Competitive Programming"],
+}
+```
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amvnjain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajain9926) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AmvnJain) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/Amvnnn) 
 
