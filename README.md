@@ -1,7 +1,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me:
 
 ```dart
-const person = {
+var person = {
   name: "Aman",
   bio: "A second-year computer science student with a passion for app development, 
         I am particularly interested in using AI, competitive programming, 
