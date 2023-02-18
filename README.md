@@ -34,7 +34,10 @@ var person = {
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=notbrood&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+## 💡 Leetcode Statistics
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=amvnjain&theme=dark)
+
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=notbrood&color=red)
