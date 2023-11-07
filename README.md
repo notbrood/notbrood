@@ -3,7 +3,7 @@
 ```dart
 var person = {
   name: "Aman",
-  bio: "A second-year computer science student with a passion for app development, 
+  bio: "Pre-final year computer science student with a passion for app development, 
         I am particularly interested in using AI, competitive programming, 
         and app development to solve real-world problems and stay up-to-date 
         with emerging technologies."
