@@ -1,12 +1,15 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me:
 
-```dart
+```kotlin
 var person = {
   name: "Aman",
   bio: "Pre-final year computer science student with a passion for app development, 
         I am particularly interested in using AI, competitive programming, 
         and app development to solve real-world problems and stay up-to-date 
         with emerging technologies."
+  hardWorker: true,
+  quickLearner: true,
+  problemSolver: true,
   inGameName: ["Amvn", "Brood"],
   hobbies: ["Star-gazing", "Observing People", "Cinephile", "Competitive Programming"],
 }
